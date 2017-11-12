@@ -10,12 +10,10 @@ package j3hw7;
  * @author user
  */
 public class Test {
-    void gav(){		
-	}
-	void printFix3(){
+    void gav(){
 		
 	}
 	void printFix10(){
-		System.out.println("Fix777");
+		System.out.println("Fix22222222");
 	}	
 }
