@@ -12,7 +12,7 @@ package j3hw7;
 public class Test {
     void gav(){		
 	}
-	void printFix(){
+	void printFix3(){
 		
 	}
 		
