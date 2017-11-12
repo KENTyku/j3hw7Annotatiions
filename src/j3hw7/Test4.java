@@ -7,7 +7,7 @@ package j3hw7;
 
 /**
  *
- * @author user
+ * @author Yuri Tveritin
  */
 public class Test {
     
