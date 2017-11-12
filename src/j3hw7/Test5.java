@@ -10,9 +10,7 @@ package j3hw7;
  * @author user
  */
 public class Test {
-    void gav(){		
-	}
-	void printFix3(){
+    void gav(){
 		
 	}
 	void printFix10(){
