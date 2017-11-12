@@ -13,7 +13,7 @@ public class Test {
     void gav(){
 		
 	}
-	void printFix(){
+	void printFix10(){
 		System.out.println("Fix");
 	}	
 }
