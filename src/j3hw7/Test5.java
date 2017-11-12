@@ -16,6 +16,6 @@ public class Test {
 		
 	}
 	void printFix10(){
-		System.out.println("Fix555");
+		System.out.println("Fix777");
 	}	
 }
