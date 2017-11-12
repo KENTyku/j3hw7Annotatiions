@@ -15,5 +15,7 @@ public class Test {
 	void printFix3(){
 		
 	}
-		
+	void printFix10(){
+		System.out.println("Fix555");
+	}	
 }
