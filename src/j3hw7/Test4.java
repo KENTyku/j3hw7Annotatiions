@@ -9,6 +9,6 @@ package j3hw7;
  *
  * @author Yuri Tveritin
  */
-public class Test {
+public class Test4 {
     
 }
