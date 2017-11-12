@@ -14,6 +14,6 @@ public class Test {
 		
 	}
 	void printFix10(){
-		System.out.println("Fix");
+		System.out.println("Fix22222222");
 	}	
 }
